@@ -1,5 +1,7 @@
 # Bootcamp Project API
 
+THIS IS THE REPO FOR THE BOOTCAMP !!!!
+
 ## Set up
 
 ```bash
