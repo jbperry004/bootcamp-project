@@ -3,6 +3,8 @@
 THIS IS THE REPO FOR THE BOOTCAMP !!!!
 This is the new committee
 
+this is another line.
+
 ## Set up
 
 ```bash
