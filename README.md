@@ -1,6 +1,7 @@
 # Bootcamp Project API
 
 THIS IS THE REPO FOR THE BOOTCAMP !!!!
+This is the new committee
 
 ## Set up
 
